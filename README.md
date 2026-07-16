@@ -4,7 +4,7 @@ Default [community health files](https://docs.github.com/en/communities/setting-
 
 ## `FUNDING.yml`
 
-Defines the account-wide **Sponsor** button: GitHub Sponsors, Ko-fi (accepts Apple Pay / Google Pay), and a PayPal fallback. Individual repos should **not** carry their own `FUNDING.yml` — they inherit this one. See `Funding and Sponsorship.md` in the GitHub-Style-Guide repo for the standard.
+Defines the account-wide **Sponsor** button: GitHub Sponsors and Ko-fi (accepts Apple Pay / Google Pay). Individual repos should **not** carry their own `FUNDING.yml` — they inherit this one. See `Funding and Sponsorship.md` in the GitHub-Style-Guide repo for the standard.
 
 ---
 
