@@ -1,0 +1,6 @@
+# GetCircuitBent account-wide Sponsor button.
+# This is the default for every GetCircuitBent repo that has no FUNDING.yml of its own.
+# Standard: GitHub-Style-Guide -> "Funding and Sponsorship.md"
+github: GetCircuitBent
+ko_fi: getcircuitbent
+custom: ["https://www.paypal.com/donate/?hosted_button_id=PJ9KWD7Q9ZCBU"]
